@@ -1,0 +1,44 @@
+# --------------------------
+# Terraform
+# --------------------------
+*.tfstate
+*.tfstate.*
+.terraform/
+crash.log
+override.tf
+override.tf.json
+*.backup
+*.tfvars
+*.tfvars.json
+
+# --------------------------
+# Azure / Credentials
+# --------------------------
+*.azureprofile
+*.publishsettings
+*.json # si fichier contient secrets
+secrets.json
+.env
+
+# --------------------------
+# PowerShell / Logs
+# --------------------------
+*.ps1xml
+*.psm1
+*.log
+*.tmp
+
+# --------------------------
+# OS / Editor
+# --------------------------
+.DS_Store
+Thumbs.db
+*.swp
+*.vscode/
+
+# --------------------------
+# Others
+# --------------------------
+*.bak
+*.old
+*.old
