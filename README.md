@@ -157,3 +157,19 @@ Pull requests welcome. Please ensure:
 ## 📄 License
 
 MIT — free to use, modify and distribute.
+---
+
+## 👩‍💻 Author
+
+**Meriem Ayari** — Infrastructure & Cloud Automation Engineer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://tn.linkedin.com/in/meriem-ayari-2667a256)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/MeriemAyari)
+
+---
+
+<div align="center">
+
+*Built with ❤️ for SMEs who deserve enterprise-grade infrastructure*
+
+</div>
